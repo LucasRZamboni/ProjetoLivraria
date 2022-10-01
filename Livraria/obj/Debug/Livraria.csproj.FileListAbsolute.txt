@@ -1,0 +1,20 @@
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.Form1.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\Livraria\Livraria\obj\Debug\Livraria.pdb
+D:\C#\Livraria\Livraria\bin\Debug\Livraria.exe.config
+D:\C#\Livraria\Livraria\bin\Debug\Livraria.exe
+D:\C#\Livraria\Livraria\bin\Debug\Livraria.pdb
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.Form1.resources
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.exe
+D:\C#\Livraria\Livraria\obj\Debug\Livraria.pdb
